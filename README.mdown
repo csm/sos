@@ -1,0 +1,1 @@
+This is a simple [Sinatra](http://www.sinatrarb.com) app that provides an Amazon S3-like HTTP API, using [pairtree](http://rubygems.org/gems/pairtree) as the backing store.
